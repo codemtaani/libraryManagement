@@ -1,0 +1,18 @@
+user profile
+books page
+login
+signup
+	fee
+initial db
+admin page
+	add books(form)
+	remove books
+	authenticate borrow
+	add another admin	
+normal user
+	checkout(borrowing book form)
+		date of borrow
+		date of return
+		if late:
+			fine * the number of days
+	give feedback
