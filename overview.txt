@@ -16,3 +16,15 @@ normal user
 		if late:
 			fine * the number of days
 	give feedback
+
+##userprofile##
+- Contains his or her credentials(name,id,history and if the number of books he or she us allowed to take from the book and the date he is supposed to return the books he or she has.)
+- The user does not have the authority to change anything in his profile neither does the admin. This means that the information in here is immutable.
+
+##Books page##
+- The list of the books can be viewed by any member be him or her the admin or not.
+- The admin has the authority to add a books but does not have the authority to remove books,  in terms of removing books the admin can only remove a book from the list if he or she is backed up by another admin, approved that the book does not exist in the library at the time.
+- The books can be narrowed down to the specifications, of subjects like science and maybe the shelf they are gotten to make it easy to physically locate the books.
+
+##Login##
+- shows that one is active and can change things that concern him or her for example the admin to execute his or her administrative privilages.
