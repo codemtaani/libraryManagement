@@ -1,0 +1,27 @@
+These are the prototype tables for the library management system
+
+******Book Details
+      Book name
+      Book author
+      PK Book id
+      Publish date
+      Description
+      Status
+      
+******Librarian Details
+      First name
+      Second name
+      PK Staff id
+      Role
+      FK Reader id
+      
+******Reader Details
+      First name
+      Second name
+      PK Reader id no
+      Book name 
+      Book id
+      Date borrowed
+      Date returned
+      FK Staff id
+      Penalty
